@@ -1,6 +1,8 @@
 <?php 
 	
 	echo "hola mundo";
+	echo "<br>que tal";
+	echo "<p> otra vez";
 
 	include "Folder2/lista_metodos.php";
 	//instancia principal

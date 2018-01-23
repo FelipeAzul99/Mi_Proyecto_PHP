@@ -7,6 +7,7 @@
 
 		public $_nombre;
 		public $_edad;
+		public $_email;
 
 		public function setNombre($nombre){
 			$this->_nombre = $nombre;
