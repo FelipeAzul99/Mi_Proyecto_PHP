@@ -3,6 +3,7 @@
 	echo "hola mundo";
 	echo "<br>que tal";
 	echo "<p> otra vez";
+	echo "GGG";
 
 	include "Folder2/lista_metodos.php";
 	//instancia principal
