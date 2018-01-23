@@ -1,5 +1,6 @@
 <?php 
 	
+	echo "AAAA";
 	echo "hola mundo";
 	echo "<br>que tal";
 	echo "<p> otra vez";
@@ -18,6 +19,5 @@
 
 	echo 'gfdgfd';
 	//fdsfdsfsdf
-
 
  ?> 
